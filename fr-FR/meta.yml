@@ -1,11 +1,11 @@
-title: Time since start
+title: Temps depuis le début
 hero_image: images/banner.png
-description: Get the time since the scene started
+description: Obtenir le temps depuis le début de la scène
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-12-02"
 steps:
   - 
-    title: Time since start
+    title: Temps depuis le début
 
