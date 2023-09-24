@@ -1,6 +1,6 @@
-Use `Time.time` to get the time in seconds since your scene started.
+Gebruik `Time.time` om de tijd in seconden te krijgen sinds je scène is gestart.
 
-Use `Mathf.Round` if you want a whole number of seconds:
+Gebruik `Mathf.Round` als je een heel aantal seconden wilt:
 
 --- code ---
 ---
